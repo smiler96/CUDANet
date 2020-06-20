@@ -1,10 +1,3 @@
-/*
-* softmax_output.h
-*
-*  Created on: Jan 11, 2020
-*      Author: ljy
-*/
-
 #pragma once
 
 #ifndef SOFTMAXLOSS_CUH_
